@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Guptha</h1>
-<img  src="https://github.com/Hari-guptha/master-of-ml/blob/master/static/asset/img/hariguptha.png">
+<img  src="https://media.licdn.com/dms/image/v2/D5616AQGOxg_V4_ZcZA/profile-displaybackgroundimage-shrink_350_1400/B56ZbfrMihHUAg-/0/1747509365965?e=1756339200&v=beta&t=9RondwBrV1PvHRV3y-0qE72fQhNfxovlK3BE1lEcXJ0">
 # 💫 About Me:
 🔭 I’m currently working on  Three js<br>👯 I’m looking to collaborate on React js<br>🤝 I’m looking for help with React js<br>🌱 I’m currently learning React three fiber<br>💬 Ask me about React js and Node js<br>
 
